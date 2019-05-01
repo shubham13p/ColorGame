@@ -1,5 +1,5 @@
 # ColorGame
-Web game where user has to choose which color square belongs to the given HEX code
+Web game where user has to choose which color square belongs to the given HEX code. The game consist of three mode easy, medium and hard mode. In easy mode user have to choose one square to match the given HEX color number out of three given square. While in medium and hard mode user has to choose from six and nine square respectively till the user get the right color square. When the user selete the right square all the square will be of that choosen right color.
 ## Technology Use
 * HTML
 * CSS
